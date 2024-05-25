@@ -1,0 +1,4 @@
+ru\wiktuar\DemoApplication.class
+ru\wiktuar\PersonRepo.class
+ru\wiktuar\controllers\MyController.class
+ru\wiktuar\entites\Person.class
